@@ -10,7 +10,7 @@ import {
 export default class SpFxCrud extends React.Component<ISpFxCrudProps, {}> {
   public render(): React.ReactElement<ISpFxCrudProps> {
     return (
-      <div className={styles.helloWorldReact1}>
+      <div className={styles.SpFxCrud}>
       <div className={styles.container}>
         <div className={styles.row}>
           <div className={styles.column}>
